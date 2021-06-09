@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cute dog to make your day happier](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhg.com%2Fpets%2Fdogs%2Fdog-names%2Fcute-dog-names%2F&psig=AOvVaw3bpvPXuk-62DwRIR0RAczo&ust=1623342047218000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiJnMv6ivECFQAAAAAdAAAAABAD)
